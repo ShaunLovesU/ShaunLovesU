@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeijieZhang
-- 👀 I’m interested in AI
+- 👀 I’m interested in Network and Security
 - 🌱 I’m currently learning database, OS, network
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me leijiezhang@uvic.ca
